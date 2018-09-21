@@ -1,0 +1,272 @@
+{
+  "keys": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+    "mapping": {
+      ".tpl": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js"
+    },
+    "root": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view/config/config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+      "port": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+      "user": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+      "password": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+      "database": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js"
+    },
+    "app": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+    "agent": "/home/landry/Documents/SampleJS/egg/egg-own01/config/config.default.js",
+    "default": {
+      "database": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-session/config/config.default.js",
+    "key": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "value": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "value": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "value": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "name": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "proxy": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "version": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "description": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "main": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    },
+    "author": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "license": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "egg-bin": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "egg-init": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "typescript": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "HOME": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "rundir": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "notFound": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "encoding": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "strict": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "depth": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "encoding": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "env": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "level": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "buffer": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "logging": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "port": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+      "hostname": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg/config/config.default.js"
+}

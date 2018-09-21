@@ -1,0 +1,1108 @@
+2018-09-21 11:19:35,077 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,078 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/config ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/config"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,082 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,083 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,083 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,083 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,083 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,084 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:19:35,084 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,068 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,068 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/config ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/config"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,069 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,069 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,069 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,069 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,070 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,070 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:20:35,070 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,070 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,071 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/config ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/config"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,071 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,072 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,073 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,073 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,074 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,074 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:21:35,074 ERROR 27828 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+name: "ENOSPCError"
+pid: 27828
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,285 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,286 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/config ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/config"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,286 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,287 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,291 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,291 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,292 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,292 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:22:47,292 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,272 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,272 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/config ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/config"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/config"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,273 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/controller"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,273 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/middleware"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,273 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/public"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,274 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/service"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,274 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,274 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/extend"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 11:23:47,275 ERROR 29178 nodejs.ENOSPCError: watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home ENOSPC
+    at _errnoException (util.js:992:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Walk.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:126:13)
+    at Walk.emit (events.js:214:7)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+filename: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+dir: "/home/landry/Documents/SampleJS/egg/egg-own01/app/view/home"
+name: "ENOSPCError"
+pid: 29178
+hostname: landry-xiaomiPC
+
+2018-09-21 13:36:32,669 ERROR 19796 [-/::1/-/3ms GET /cards/10000] nodejs.TypeError: ctx.service.card.getCardsFromUser is not a function
+    at CardController.cardIndex (/home/landry/Documents/SampleJS/egg/egg-own01/app/controller/card.js:6:46)
+    at Object.callFn (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 19796
+hostname: landry-xiaomiPC
+
+2018-09-21 13:40:57,943 ERROR 21602 [-/::1/-/16ms GET /cards/10008] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537508457927, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'Kl59Tt7YuYYCPMiu', `csrf` = 'DVemQFby-cP6nnnUCixN4Nb7a5u1xq9hiiRc', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537508457927, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'Kl59Tt7YuYYCPMiu', `csrf` = 'DVemQFby-cP6nnnUCixN4Nb7a5u1xq9hiiRc', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0"
+name: "ER_PARSE_ERRORError"
+pid: 21602
+hostname: landry-xiaomiPC
+
+2018-09-21 13:49:29,611 ERROR 25190 [-/::1/-/16ms GET /cards/10008] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537508969594, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'WlN~sn3J_mlusdRh', `csrf` = '0NWgzY8o-6DlW6J8zhpvLQTJsVyrd_WNRxEY', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537508969594, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'WlN~sn3J_mlusdRh', `csrf` = '0NWgzY8o-6DlW6J8zhpvLQTJsVyrd_WNRxEY', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0"
+name: "ER_PARSE_ERRORError"
+pid: 25190
+hostname: landry-xiaomiPC
+
+2018-09-21 14:33:31,112 ERROR 11152 [-/::1/-/12ms GET /cards/10008] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537511611100, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'szADy12ppmu9BiLV', `csrf` = 'KdLtj8wH-56Gh6__mn3EFg1fTN8cA6rnoM_w', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0 LIMIT 0, 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537511611100, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'szADy12ppmu9BiLV', `csrf` = 'KdLtj8wH-56Gh6__mn3EFg1fTN8cA6rnoM_w', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0 LIMIT 0, 1"
+name: "ER_PARSE_ERRORError"
+pid: 11152
+hostname: landry-xiaomiPC
+
+2018-09-21 14:33:57,233 ERROR 11204 [-/::1/-/17ms GET /cards/10008] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537511637216, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'oYtzox3audHetFXl', `csrf` = 'FV00tmgv-rq6cLRKOa9PFtAGZ_8ySvYb9LC8', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0 LIMIT 0, 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Obj' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `user_cards` WHERE `userid` = `request` = '[object Object]', `response` = '[object Object]', `app` = '[object Object]', `req` = '[object Object]', `res` = '[object Object]', `originalUrl` = '/cards/10008', `starttime` = 1537511637216, `matched` = '[object Object]', `_matchedRoute` = '/cards/:userid', `captures` = '10008', `params` = '[object Object]', `routerName` = NULL, `securityOptions` = '[object Object]', `nonce` = 'oYtzox3audHetFXl', `csrf` = 'FV00tmgv-rq6cLRKOa9PFtAGZ_8ySvYb9LC8', `acceptJSONP` = false, `locale` = 'en-us', `view` = '[object Object]', `cookies` = '[object Object]', `httpclient` = '[object Object]', `router` = '[object Object]', `helper` = '[object Object]', `logger` = '[object Object]', `coreLogger` = '[object Object]', `locals` = '[object Object]', `state` = '[object Object]', `acceptJSON` = false, `queries` = '[object Object]', `accept` = '[object Object]', `ip` = '::1', `realStatus` = 404, `status` = 404, `message` = 'Not Found', `body` = NULL, `length` = NULL, `type` = '', `lastModified` = NULL, `etag` = '', `headerSent` = false, `writable` = true, `querystring` = '', `idempotent` = true, `socket` = '[object Object]', `search` = '', `method` = 'GET', `query` = '[object Object]', `path` = '/cards/10008', `url` = '/cards/10008', `origin` = 'http://localhost:7001', `href` = 'http://localhost:7001/cards/10008', `subdomains` = , `protocol` = 'http', `host` = 'localhost:7001', `hostname` = 'localhost', `URL` = 'http://localhost:7001/cards/10008', `header` = '[object Object]', `headers` = '[object Object]', `secure` = false, `stale` = true, `fresh` = false, `ips` =  AND `isdel` = 0 LIMIT 0, 1"
+name: "ER_PARSE_ERRORError"
+pid: 11204
+hostname: landry-xiaomiPC
+
+2018-09-21 14:38:11,756 ERROR 13210 [-/::1/-/8ms GET /cards/10008] nodejs.AssertionError [ERR_ASSERTION]: Can't find /card/CardList.tpl from /home/landry/Documents/SampleJS/egg/egg-own01/app/view
+    at Map.resolve (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 13210
+hostname: landry-xiaomiPC
+
+2018-09-21 14:51:36,188 ERROR 18640 [-/::1/-/9ms GET /cards/10008] nodejs.TypeError: cards.json is not a function
+    at CardController.cardIndex (/home/landry/Documents/SampleJS/egg/egg-own01/app/controller/card.js:7:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 18640
+hostname: landry-xiaomiPC
+
+2018-09-21 15:19:11,232 ERROR 29786 [-/::1/-/9ms GET /cards/10008] nodejs.ReferenceError: cards is not defined
+    at CardService.getCardsFromUser (/home/landry/Documents/SampleJS/egg/egg-own01/app/service/card.js:13:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 29786
+hostname: landry-xiaomiPC
+
+2018-09-21 15:21:21,439 ERROR 31090 [-/::1/-/8ms GET /cards/10008] nodejs.ReferenceError: cards is not defined
+    at CardService.getCardsFromUser (/home/landry/Documents/SampleJS/egg/egg-own01/app/service/card.js:13:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 31090
+hostname: landry-xiaomiPC
+
+2018-09-21 15:21:41,471 ERROR 31126 [-/::1/-/18ms GET /cards/10008] nodejs.ReferenceError: cards is not defined
+    at CardService.getCardsFromUser (/home/landry/Documents/SampleJS/egg/egg-own01/app/service/card.js:13:57)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 31126
+hostname: landry-xiaomiPC
+
+2018-09-21 15:22:08,135 ERROR 31533 [-/::1/-/11ms GET /cards/10008] nodejs.ReferenceError: consoloe is not defined
+    at CardService.getCardsFromUser (/home/landry/Documents/SampleJS/egg/egg-own01/app/service/card.js:13:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 31533
+hostname: landry-xiaomiPC
+
+2018-09-21 15:31:46,707 ERROR 3412 [-/::1/-/14ms GET /cards/10008] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{ctx.params.userid}' at line 1
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_cards where userid = ${ctx.params.userid};
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{ctx.params.userid}' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM user_cards where userid = ${ctx.params.userid};"
+name: "ER_PARSE_ERRORError"
+pid: 3412
+hostname: landry-xiaomiPC
+
+2018-09-21 15:56:12,448 ERROR 13857 [-/::1/-/8ms GET /cards/100008] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'name' in 'field list'
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT `name`, `branch`, `cardno` FROM `user_cards` WHERE `userid` = '100008'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'name' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT `name`, `branch`, `cardno` FROM `user_cards` WHERE `userid` = '100008'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 13857
+hostname: landry-xiaomiPC
+
+2018-09-21 16:02:15,286 ERROR 16262 [-/::1/-/12ms GET /cards/100008] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'name' in 'field list'
+    at Query.Sequence._packetToError (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:65:19)
+    at /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/co/index.js:54:5
+    sql: SELECT `name`, `branch`, `cardno` FROM `user_cards` WHERE `userid` = '100008'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'name' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT `name`, `branch`, `cardno` FROM `user_cards` WHERE `userid` = '100008'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 16262
+hostname: landry-xiaomiPC
+

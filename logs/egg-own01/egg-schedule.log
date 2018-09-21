@@ -1,0 +1,8 @@
+2018-09-21 11:19:35,541 INFO 27828 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-22 00:00:00.000
+2018-09-21 11:19:35,541 INFO 27828 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-22 00:00:01.000
+2018-09-21 11:22:47,740 INFO 29178 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-22 00:00:00.000
+2018-09-21 11:22:47,740 INFO 29178 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-22 00:00:01.000
+2018-09-21 11:25:13,946 INFO 30566 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-22 00:00:00.000
+2018-09-21 11:25:13,946 INFO 30566 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-22 00:00:01.000
+2018-09-21 17:30:25,154 INFO 20117 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-22 00:00:00.000
+2018-09-21 17:30:25,155 INFO 20117 [Timer] /home/landry/Documents/SampleJS/egg/egg-own01/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-22 00:00:01.000
